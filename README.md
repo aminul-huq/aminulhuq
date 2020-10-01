@@ -2,7 +2,7 @@
 
 I am currently doing my Master's at Tsinghua University, China at the dept. of Computer Science and Technology.  I did my Bachelor's from Rajshahi University of Engineering & Technology, Bangladesh. 
 
-My research interest lies in Adversarial Machine Learning and Medical Image Analysis. Currently, I am working on defense techniques for Deep Learning models from Adversarial Examples.
+My research interest lies in Adversarial Machine Learning. Currently, I am working on defense techniques for Deep Learning models from Adversarial Examples.
 
 I like to read books, travel, watch cartoons and anime and explore interesting food.
 
