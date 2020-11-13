@@ -4,7 +4,7 @@ I am currently doing my Master's at Tsinghua University, China at the dept. of C
 
 My research interest lies in Adversarial Machine Learning. Currently, I am working on defense techniques for Deep Learning models from Adversarial Examples.
 
-I like to read books, travel, watch cartoons and anime and explore interesting food.
+I like to read books, travel, watch cartoons, anime and explore interesting food.
 
 <!--
 **aminul-huq/aminul-huq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
